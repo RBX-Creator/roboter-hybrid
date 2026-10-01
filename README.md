@@ -1,2 +1,3 @@
-# roboter-hybrid
-Mechanik x IT: Roboter bauen — interaktive Berufsseite mit 3D-Roboter
+# Mechanik x IT
+
+Direkt öffnen: https://cdn.jsdelivr.net/gh/RBX-Creator/roboter-hybrid@main/index.html
